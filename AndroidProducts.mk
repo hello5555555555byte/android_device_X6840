@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X6840.mk
+	$(LOCAL_DIR)/twrp_X6840.mk
+
+COMMON_LUNCH_CHOICES := \
+	twrp_X6840-eng \
+	twrp_X6840-userdebug \
+	twrp_X6840-user
