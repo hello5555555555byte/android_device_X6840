@@ -10,4 +10,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
 	twrp_X6840-eng \
 	twrp_X6840-userdebug \
-	twrp_X6840-user
+	twrp_X6840-eng
