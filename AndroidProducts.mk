@@ -8,4 +8,4 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/twrp_X6840.mk
 
 COMMON_LUNCH_CHOICES := \
-	lunch twrp_X6840-ap2a
+	twrp_X6840-ap2a
